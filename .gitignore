@@ -1,3 +1,4 @@
+/.vs/
 /css/
 *.db
 /journals-articles/eresources_a-z_static.php
@@ -5,3 +6,5 @@
 credentials.json
 token.json
 /vendor/
+/api/config/database.php
+info-apps/
